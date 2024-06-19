@@ -1,4 +1,4 @@
-![turtle](https://github.com/anderu3/crossing-game/blob/main/pixelturtle.jpg?raw=true)
+![turtle](https://github.com/anderu3/crossing-game/blob/master/pixelturtle.jpg?raw=true)
 
 Turtle Crossing Game
 
