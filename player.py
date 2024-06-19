@@ -16,6 +16,3 @@ class Player(Turtle):
 
     def movedown(self):
         self.backward(20)
-
-    def checking_collision(self, XcorOfTruck)
-        if self.distance(self.xcor(), XcorOfTruck.xcor()):
