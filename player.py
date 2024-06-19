@@ -10,6 +10,7 @@ class Player(Turtle):
         self.penup()
         self.setheading(90)
         self.goto(0, -250)
+        self.shapesize(3, 3, 1)
 
     def moveup(self):
         self.fd(20)
